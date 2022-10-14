@@ -1,0 +1,22 @@
+{
+  "name": "fleety",
+  "displayName": "Fleety",
+  "description": "A theme inspired by the new Fleet IDE, created by JetBrains. Based on the public  preview.",
+  "version": "0.0.1",
+  "icon": "images/fleet.png",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fleety",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fleety-color-theme.json"
+      }
+    ]
+  }
+}
