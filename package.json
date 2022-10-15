@@ -4,6 +4,7 @@
   "description": "A theme inspired by the new Fleet IDE, created by JetBrains. Based on the public  preview.",
   "version": "0.0.2",
   "icon": "images/fleet.png",
+  "repository": "https://github.com/wilmarjongkind/fleety",
   "engines": {
     "vscode": "^1.72.0"
   },
