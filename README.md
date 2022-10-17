@@ -1,6 +1,6 @@
 # Fleety
 
-I gave the new IDE Fleety a try last week and really liked the default theme. Couldn't find any themes that had these exact colors yet, so I decided to make it myself.
+I gave the new IDE Fleet a try last week and really liked the default theme. Couldn't find any themes that had these exact colors yet, so I decided to make it myself.
 
 ## Credits
 
