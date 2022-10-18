@@ -6,6 +6,12 @@ I gave the new IDE Fleet a try last week and really liked the default theme. Cou
 
 This theme is based on [Fleet](https://www.jetbrains.com/fleet/). (Default dark-theme)
 
+## Screenshots
+
+![typescript](https://i.imgur.com/8QTwTY1.png)
+
+![json](https://i.imgur.com/hKnXgIt.png)
+
 ## Typography
 
 The font I use with this theme is `JetBrainsMono Nerd Font`, which can be downloaded [here](https://github.com/ryanoasis/nerd-fonts/releases).
